@@ -1,4 +1,4 @@
-#Do Zero ao Redux
+# Do Zero ao Redux
 
 ## Projeto - lista de compras
 
